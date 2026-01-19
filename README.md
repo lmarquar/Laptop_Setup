@@ -3,7 +3,9 @@ my current config
 ## Type
 Dell Latitude 5540 with 2 ssds
 
-## Dual boot Windows and Ubuntu
+## How to dual boot
+
+## Windows Partition
 
 ## Ubuntu Partition
 ### fingerprint service
