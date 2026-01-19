@@ -1,11 +1,11 @@
 # Laptop_Setup
 my current config
-# Type: Dell Latitude 5540
+## Type
+Dell Latitude 5540 with 2 ssds
 
-# OS
 ## Dual boot Windows and Ubuntu
 
-## Ubuntu
+## Ubuntu Partition
 ### fingerprint service
 Make sure your system is up to date:
 ```
