@@ -5,9 +5,9 @@ Dell Latitude 5540 with 2 ssds
 
 ## How to dual boot
 
-## Windows Partition
+## Windows
 
-## Ubuntu Partition
+## Ubuntu
 ### fingerprint service
 Make sure your system is up to date:
 ```
