@@ -8,7 +8,7 @@ Dell Latitude 5540 with 2 ssds
 ## Windows
 
 ## Ubuntu
-### fingerprint service
+### fingerprint service (broken)
 Make sure your system is up to date:
 ```
 sudo apt update
