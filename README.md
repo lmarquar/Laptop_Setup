@@ -9,6 +9,7 @@ Dell Latitude 5540 with 2 ssds
 
 ## Ubuntu
 ### fingerprint service (broken)
+Dell does not support it and this workaround gets me stuck in login screen, so that i have to reboot.
 Make sure your system is up to date:
 ```
 sudo apt update
