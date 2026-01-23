@@ -27,10 +27,3 @@ Install driver itself:
 3.  you can install both now with `sudo apt install <package>.deb`
 4.  enable fingerprint service: `sudo pam-auth-update`
 5. reboot and find the new login-via-fingerprint option in User-Settings
-
-
-
-```
-sudo apt install git
-sudo apt install python3-pip
-```
